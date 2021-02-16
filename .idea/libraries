@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="HelloWorldFX">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/Section13Project/HelloWorldFX" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Desktop/Section13Project/HelloWorldFX/src" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
